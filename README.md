@@ -1,14 +1,15 @@
-# Matias Busto Madrid
+ ## Matias Busto
+#### Presentacion
 
-## Datos Personales
 ![Este soy yo](./img/presentacion.jpg)
+   
+#### Sobre mi 
+- Me llamo Matias Busto Madrid
+- Tengo 20 Años
+- Actualmente estoy estudiando LGTI en la Universidad Nacional de Jose C. Paz
 
-- Edad: 20
-- Estudiante de Lic. En Gestion en Tecnologia de la informacion
-Mi presentación personal
-- 
-
-## Pasatiempos
-- Ver series
-- Jugar VideoJuegos
+#### Pasatiempos
+- Ver Series
+- Jugar videojuegos
+- Aprender cosas nuevas sobre programacion(por ejemplo, un lenguaje)
 
