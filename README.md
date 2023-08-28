@@ -11,5 +11,5 @@
 ## Pasatiempos
 - Ver Series
 - Jugar videojuegos
-- Aprender cosas nuevas sobre programacion(por ejemplo, un lenguaje)
+- Aprender cosas nuevas sobre programacion
 
